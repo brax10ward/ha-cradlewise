@@ -8,7 +8,7 @@
   "iot_class": "cloud_push",
   "issue_tracker": "https://github.com/brax10ward/ha-cradlewise/issues",
   "requirements": [
-    "pycradlewise @ git+https://github.com/brax10ward/pycradlewise.git@cb90347263d879e0bdb6245e5eb24e4025e8a113"
+    "pycradlewise @ git+https://github.com/brax10ward/pycradlewise.git@bd2c6b9d66dbbf6ffd6bbf90300e9c2cb69620e5"
   ],
-  "version": "0.3.2"
+  "version": "0.3.3"
 }
