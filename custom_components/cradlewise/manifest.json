@@ -4,11 +4,11 @@
   "codeowners": [],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "https://github.com/custom-components/cradlewise",
+  "documentation": "https://github.com/brax10ward/ha-cradlewise",
   "iot_class": "cloud_push",
-  "issue_tracker": "https://github.com/custom-components/cradlewise/issues",
+  "issue_tracker": "https://github.com/brax10ward/ha-cradlewise/issues",
   "requirements": [
-    "pycradlewise @ git+https://github.com/grantland/pycradlewise.git@68ff306"
+    "pycradlewise @ git+https://github.com/brax10ward/pycradlewise.git@cb90347263d879e0bdb6245e5eb24e4025e8a113"
   ],
-  "version": "0.3.1"
+  "version": "0.3.2"
 }
